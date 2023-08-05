@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Apurv Kushwaha</h1>
 <h3 align="center">An Engineering Physics student at IIT Guwahati</h3>
-<img align="right" alt="Coding" width="500" src="https://media.tenor.com/c4sK9eF0_pkAAAAC/defef.gif">
+<img align="right" alt="Coding" width="500" src="https://media.tenor.com/c4sK9eF0_pkAAAAd/defef.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurvk032&label=Profile%20views&color=0e75b6&style=flat" alt="apurvk032" /> </p>
 
