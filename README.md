@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Apurv Kushwaha</h1>
 <h3 align="center">An Engineering Physics student at IIT Guwahati</h3>
-<img align="right" alt="Coding" width="500" src="https://tenor.googleapis.com/v2/media?id=8325760387290300057&format=optimizedgif&client_key=tenor_web&appversion=browser-r20230725-1&access_token=ya29.a0AfB_byAauD7WZ_sUX0G2cQqV2actyR2qIfn4YQSpnK8eY6D-_4Z_r1s9nxHX-LKrYA0_5xKO0pqPCwoBnmeKJuFcnj0HeIB3ON_-BO4V8xYXweBxHhEZLRfyXy1hbliA5UI1JcSKm-xqsNlxXDt3cvwEohyDaCgYKAbMSARESFQHsvYlseKtQk45x9J7z4dyaZ-H3Mw0163&key=AIzaSyC-P6_qz3FzCoXGLk6tgitZo4jEJ5mLzD8">
+<img align="right" alt="Coding" width="500" src="https://media.tenor.com/c4sK9eF0_pkAAAAC/defef.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurvk032&label=Profile%20views&color=0e75b6&style=flat" alt="apurvk032" /> </p>
 
