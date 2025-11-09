@@ -5,7 +5,7 @@ Master's in Robotics, University of Minnesota
 
 ---
 
-### 🔗 [Portfolio](https://ApurvK032.github.io) · [LinkedIn](https://linkedin.com/in/kushwahaapurv)
+### 🔗 [Portfolio](https://apurvk032.github.io/portfolio/) · [LinkedIn](https://linkedin.com/in/kushwahaapurv)
 
 ### 🛠 Tech Stack
 **Languages:** Python · C++ · Rust · MATLAB  
