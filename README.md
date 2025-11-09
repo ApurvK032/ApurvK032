@@ -1,7 +1,7 @@
 # Apurv Kushwaha
 
 **Robotics Engineer**  
-Master's in Robotics, University of Minnesota - Twin Cities
+Master's in Robotics, University of Minnesota - Twin Cities \
 Bachelor's in Engineering Physics, Indian Institute of Technology (IIT) Guwahati
 
 ---
