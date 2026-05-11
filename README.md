@@ -6,7 +6,7 @@ Bachelor's in Engineering Physics, Indian Institute of Technology (IIT) Guwahati
 
 ---
 
-### 🔗 [Portfolio](https://apurvk032.github.io/portfolio/) · [LinkedIn](https://linkedin.com/in/kushwahaapurv)
+### 🔗 [Portfolio](https:/apurvkushwaha.com) · [LinkedIn](https://linkedin.com/in/kushwahaapurv)
 
 ### 🛠 Tech Stack
 **Languages:** Python · C++ · Rust · MATLAB  
