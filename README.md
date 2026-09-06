@@ -12,7 +12,6 @@ I build complete prototypes: sensing and perception, control and simulation, emb
 
 | Project | What it demonstrates |
 | --- | --- |
-| [Application Search and Resume Tailoring Agent](https://github.com/ApurvK032/application-agent) | Local-first Python/SQLite workflow with 14 employer feeds, cross-source duplicate protection, evidence-backed resume generation, and review-before-submit Playwright assistance. |
 | [Quest 3 Bowling Ball Tracking](https://github.com/ApurvK032/quest3-bowling-ball-tracking) | Course team project spanning Quest H.264 capture, YOLO26s detection, SAM2 tracking, lane-space trajectory reconstruction, shot statistics, and mixed-reality replay. |
 | [Class-Aware Image Retargeting](https://github.com/ApurvK032/cv5561-f25-team-asa) | Team computer-vision pipeline using DINOv3, Depth Anything 3, saliency detection, and multi-operator seam carving. |
 | [Autonomous Car Parking Bot](https://github.com/ApurvK032/Autonomous-Car-Parking-Bot) | ROS 2 system with overhead-camera detection, Nav2 navigation, coordinate transformation, and a towing robot lift. |
