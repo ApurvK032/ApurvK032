@@ -25,4 +25,4 @@ I build complete prototypes: sensing and perception, control and simulation, emb
 - XR and product: Meta Quest 3, Unity, C#, Kotlin, FastAPI
 - Engineering: Python, C++, MATLAB, Linux, Git, Docker, CMake, 3D printing
 
-[Portfolio](https://apurvkushwaha.com) · [LinkedIn](https://www.linkedin.com/in/kushwahaapurv/)
+[Personal Website](https://apurvkushwaha.com) · [LinkedIn](https://www.linkedin.com/in/kushwahaapurv/)
