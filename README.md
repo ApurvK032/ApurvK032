@@ -20,10 +20,6 @@ Models uncertainty in object mass, friction, and center of mass to predict actio
 
 ## Selected work
 
-| MIRA: real arm, cubes moved mid-task (2×) | humanoid-vla: fine-tuned VLA, unseen layouts | π-WBC: PPO walking policy in MuJoCo |
-| :---: | :---: | :---: |
-| <a href="https://github.com/ApurvK032/mira-manipulation"><img src="https://github.com/ApurvK032/mira-manipulation/raw/main/docs/media/full_cycle.gif" height="130" alt="WidowX AI arm following and stacking cubes while a hand moves them"></a> | <a href="https://github.com/ApurvK032/humanoid-vla"><img src="https://github.com/ApurvK032/humanoid-vla/raw/main/docs/media/m3_policy_pair.gif" height="130" alt="Fine-tuned SmolVLA policy sorting blocks on a simulated Unitree G1 under two instructions"></a> | <a href="https://github.com/ApurvK032/pi-wbc"><img src="https://github.com/ApurvK032/pi-wbc/raw/main/results/stage1/gait_v3_s1_walk_1.0.gif" height="130" alt="Unitree G1 walking at 1 m/s in MuJoCo with a policy trained in Isaac Lab"></a> |
-
 | Project | What it does |
 | --- | --- |
 | [dex-coder](https://github.com/ApurvK032/dex-coder) | An LLM coding agent writes the camera-only controller for a Unitree G1 + Dex3 hand in MuJoCo. 92-100% success on unseen layouts, about $2.60 per controller. |
